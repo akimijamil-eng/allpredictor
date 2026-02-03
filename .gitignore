@@ -1,0 +1,66 @@
+# =====================
+# Miscellaneous
+# =====================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# =====================
+# IntelliJ / Android Studio
+# =====================
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (optionnel)
+#.vscode/
+
+# =====================
+# Flutter / Dart / Pub
+# =====================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# =====================
+# Android build outputs
+# =====================
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# =====================
+# Obfuscation / Mapping
+# =====================
+app.*.symbols
+app.*.map.json
+
+# =====================
+# 🔐 SÉCURITÉ — KEYS & SIGNATURES (OBLIGATOIRE)
+# =====================
+android/key.properties
+android/app/keystore.jks
+*.jks
+*.keystore
+
+# =====================
+# OS / Editor
+# =====================
+*.bak
+*.tmp

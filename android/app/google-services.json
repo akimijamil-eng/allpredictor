@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "670515231770",
+    "firebase_url": "https://allpredictor-518cd-default-rtdb.firebaseio.com",
+    "project_id": "allpredictor-518cd",
+    "storage_bucket": "allpredictor-518cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670515231770:android:09a721d1ce9e0f44a365a3",
+        "android_client_info": {
+          "package_name": "com.allpredictorfree.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRXmKXR_SCHT-VndfDnRhaLvJP4Sjhxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

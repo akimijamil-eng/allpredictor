@@ -1,0 +1,45 @@
+# =========================
+# GLOBAL
+# =========================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.idea/
+.vscode/
+.cxx/
+captures/
+
+# =========================
+# FLUTTER / DART
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+GeneratedPluginRegistrant.java
+
+# =========================
+# ANDROID
+# =========================
+.gradle/
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+local.properties
+
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# =========================
+# 🔐 SÉCURITÉ – NE JAMAIS COMMIT
+# =========================
+android/key.properties
+android/app/keystore.jks
